@@ -10,4 +10,4 @@ Análise de segmentação de clientes usando a metodologia RFM.
 
 ## Demonstração
 
-![Exemplo de Visualização]()
+![Exemplo de Visualização](images/dist_rfm_campeoes.png)
